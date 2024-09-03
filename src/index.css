@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  min-width: 0;
+}
+
+input{
+  color-scheme:dark
+}
+
+.rdp-root{
+  --rdp-range_start-color: gray !important;
+  --rdp-accent-color: #BEF264 !important;
+  --rdp-accent-background-color: black !important;
+}
