@@ -1,4 +1,4 @@
-# Travel Planner
+# Planner
 
 Um planejador de viagens interativo desenvolvido com React, TypeScript, Tailwind CSS e Axios. Este aplicativo permite que os usuários criem e organizem itinerários personalizados, consultem informações detalhadas sobre destinos e salvem suas preferências de viagem para futuras referências.
 
